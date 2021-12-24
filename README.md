@@ -1,2 +1,2 @@
 # FormValidator
-ValidateForm en utilisant les objets Javascript
+Validate Form Using Javascript Object
